@@ -300,17 +300,24 @@
     </div>
   </section>
 
-  <section class="text-center">
+  <section>
     <div class="container">
-      <h2 class="mb-xl-5">Example Using Viash  from CLI</h2>
-      <img src="images/56bee21838b1d08592b69234d30a183f.gif" alt="cli" class="img-fluid">
+      <h2 class="mb-xl-5 d-none d-md-block">Example Using Viash from CLI</h2>
+      <h2 class="mb-xl-5 d-md-none p-color-10 px-3 py-2 rounded-3 d-flex align-items-center justify-content-between toggle-expand" data-target="expandible-img-container-1">Example CLI <span class="toggle-icon">+</span></h2>
+      <img src="images/56bee21838b1d08592b69234d30a183f.gif" alt="cli" class="img-fluid d-none d-md-block">
+      <div class="img-container" id="expandible-img-container-1">
+        <img src="images/56bee21838b1d08592b69234d30a183f.gif" alt="cli" class="img-fluid d-md-none">
+      </div>
     </div>
   </section>
-
+  
   <section class="my-4 my-xl-5 pb-4">
     <div class="container">
-      <img src="images/pipelinehorizontal-desktop.png" alt="pipelinehorizontal-desktop" class="img-fluid d-none d-sm-block mx-auto d-block">
-      <img src="images/pipelinehorizontal-mobile.png" alt="pipelinehorizontal-mobile" class="img-fluid d-sm-none mx-auto d-block">
+      <h2 class="mb-xl-5 d-md-none p-color-10 px-3 py-2 rounded-3 d-flex align-items-center justify-content-between toggle-expand" data-target="expandible-img-container-2">Example Pipeline/Module <span class="toggle-icon">+</span></h2>
+      <img src="images/pipelinehorizontal-desktop.png" alt="pipelinehorizontal-desktop" class="img-fluid d-none d-md-block mx-auto d-block">
+      <div class="img-container" id="expandible-img-container-2">
+        <img src="images/pipelinehorizontal-mobile.png" alt="pipelinehorizontal-mobile" class="img-fluid d-md-none mx-auto d-block">
+      </div>
     </div>
   </section>
 
@@ -601,6 +608,7 @@
 
 
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+  <script src="js/scripts.js"></script>
 </body>
 
 </html>

@@ -16,3 +16,22 @@ window.onload = function () {
   // For example: iframe.contentWindow.addEventListener('resize', resizeIframe);
 };
 
+
+
+var toggleElements = document.querySelectorAll('.toggle-expand');
+
+  toggleElements.forEach(function (element) {
+    element.addEventListener('click', function () {
+      var targetId = element.getAttribute('data-target');
+      var imgContainer = document.getElementById(targetId);
+      var icon = element.querySelector('.toggle-icon');
+
+      if (imgContainer.style.display === 'none' || imgContainer.style.display === '') {
+        imgContainer.style.display = 'block';
+        icon.innerHTML = '-';
+      } else {
+        imgContainer.style.display = 'none';
+        icon.innerHTML = '+';
+      }
+    });
+  });

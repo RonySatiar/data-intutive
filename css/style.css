@@ -3,7 +3,8 @@
   --s-color: #02c55c;
   --bs-heading-color: #0f0e0e;
   --bs-primary-rgb: 124, 75, 172;
-  --p-color-60: rgba(2, 197, 92, 0.06);
+  --p-color-10: rgba(124, 5, 172, 0.1);
+  --s-color-60: rgba(2, 197, 92, 0.06);
 }
 @font-face {
   font-family: "General Sans";
@@ -386,7 +387,7 @@ blockquote:before {
   font-size: 55px;
   color: var(--s-color);
   position: absolute;
-  left: -14px;
+  left: 0;
   top: 8px;
   line-height: 0;
 }
@@ -426,9 +427,9 @@ blockquote:before {
   color: #cecece;
 }
 
-a.btn.book-meeting {
+.btn.book-meeting {
   margin-bottom: -58px;
-  padding: 18px 35px;
+  padding: 18px 30px;
 }
 
 footer {
@@ -520,7 +521,7 @@ footer ul li a:hover {
   padding: 3rem 3rem 2rem 3rem;
   font-size: smaller;
   text-decoration: none;
-  position: relative;
+
   flex-shrink: 0;
 }
 @media (min-width: 768px) {
@@ -711,8 +712,35 @@ ul.social-block li a:hover {
   width: 120px;
 }
 .bg-primary-60{
-  background-color: var(--p-color-60);
+  background-color: var(--s-color-60);
 }
+
+
+.img-container {
+  display: none;
+}
+
+.p-color-10 {
+  background-color: var(--p-color-10);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 @media (max-width: 480px) {
   .container,
   .container-fluid,
@@ -820,8 +848,15 @@ ul.social-block li a:hover {
   .elevate-dataworkflows-inner {
     padding: 3rem 3rem 4rem;
   }
-  a.btn.book-meeting {
+  .btn.book-meeting {
     margin-bottom: -134px;
+  }
+  .logo-wratermark {
+    position: absolute;
+    z-index: -1;
+    max-width: 250px;
+    pointer-events: none;
+    margin-top: -10%;
   }
 }
 
@@ -955,7 +990,7 @@ ul.social-block li a:hover {
     margin-left: auto;
     margin-right: auto;
   }
-  a.btn.book-meeting {
+  .btn.book-meeting {
     padding: 25px 50px;
     margin-bottom: -198px;
   }
@@ -990,9 +1025,9 @@ ul.social-block li a:hover {
   }
   blockquote:before {
     font-size: 75px;
-
-    left: -14px;
+    left: 0;
     top: 17px;
+    margin-left: -32px;
   }
   footer {
     margin-top: -40px;
@@ -1009,6 +1044,14 @@ ul.social-block li a:hover {
 .accordion-button {
   font-size: 20px;
 }
+.logo-wratermark {
+
+max-width: 100%;
+
+margin-top: -16%;
+
+margin-left: -5%;
+}
 }
 
 @media (min-width: 1400px) {
@@ -1018,6 +1061,11 @@ ul.social-block li a:hover {
   .no-pipeline-block:after {
     right: -32.5%;
   }
+  p {
+
+    margin-bottom: 1.5rem;
+    font-size: 18px;
+}
 }
 
 @media (min-width: 1600px) {
