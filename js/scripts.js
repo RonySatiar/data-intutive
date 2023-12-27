@@ -17,7 +17,7 @@ window.onload = function () {
 };
 
 
-
+// Toggle Expand
 var toggleElements = document.querySelectorAll('.toggle-expand');
 
   toggleElements.forEach(function (element) {
@@ -34,4 +34,25 @@ var toggleElements = document.querySelectorAll('.toggle-expand');
         icon.innerHTML = '+';
       }
     });
+  });
+
+// 
+  var swiper = new Swiper(".client-ref-carousel", {
+    slidesPerView: 3,
+    spaceBetween: 60,
+    loop: true,
+    breakpoints: {
+      0: {
+        slidesPerView: "1.7",
+        spaceBetween: 20,
+      },
+      768: {
+        slidesPerView: 3,
+        spaceBetween: 40,
+      },
+      1024: {
+        slidesPerView: 3,
+        spaceBetween: 50,
+      },
+    },
   });
