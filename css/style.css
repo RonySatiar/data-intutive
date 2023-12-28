@@ -832,6 +832,9 @@ ul.social-block li a:hover {
   .row.gx-2 {
     --bs-gutter-x: 0.5rem;
   }
+  .g-3, .gx-3 {
+    --bs-gutter-x: 1rem;
+}
   .copyright-box {
     margin: 0 -20px;
   }
