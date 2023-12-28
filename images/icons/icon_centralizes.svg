@@ -1,0 +1,14 @@
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="vuesax/linear/driver">
+<g id="driver">
+<path id="Vector" d="M25.7602 13.3335H6.25352C4.28019 13.3335 2.68018 11.7202 2.68018 9.76019V6.25352C2.68018 4.28019 4.29352 2.68018 6.25352 2.68018H25.7602C27.7335 2.68018 29.3335 4.29352 29.3335 6.25352V9.76019C29.3335 11.7202 27.7202 13.3335 25.7602 13.3335Z" stroke="#7C4BAC" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_2" d="M25.7602 29.3335H6.25352C4.28019 29.3335 2.68018 27.7202 2.68018 25.7602V22.2535C2.68018 20.2802 4.29352 18.6802 6.25352 18.6802H25.7602C27.7335 18.6802 29.3335 20.2935 29.3335 22.2535V25.7602C29.3335 27.7202 27.7202 29.3335 25.7602 29.3335Z" stroke="#7C4BAC" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_3" d="M8 6.6665V9.33317" stroke="#7C4BAC" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_4" d="M13.3335 6.6665V9.33317" stroke="#7C4BAC" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_5" d="M8 22.6665V25.3332" stroke="#7C4BAC" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_6" d="M13.3335 22.6665V25.3332" stroke="#7C4BAC" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_7" d="M18.6665 8H23.9998" stroke="#7C4BAC" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_8" d="M18.6665 24H23.9998" stroke="#7C4BAC" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</g>
+</svg>

@@ -40,6 +40,7 @@ var toggleElements = document.querySelectorAll('.toggle-expand');
   var swiper = new Swiper(".client-ref-carousel", {
     slidesPerView: 3,
     spaceBetween: 60,
+    
     loop: true,
     breakpoints: {
       0: {
