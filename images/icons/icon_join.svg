@@ -1,0 +1,46 @@
+<svg width="106" height="107" viewBox="0 0 106 107" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="icon_join 1" clip-path="url(#clip0_1501_650)">
+<g id="g8750">
+<path id="path8696" d="M106 29.6832V77.6823C106 93.6987 93.0161 106.683 76.9995 106.683H29.0005C12.9839 106.683 0 93.6987 0 77.6821V29.6832C0 13.6666 12.9839 0.682617 29.0005 0.682617H76.9997C93.0161 0.682617 106 13.6666 106 29.6832Z" fill="#F2EDF7"/>
+<path id="polygon8698" d="M44.8145 54.4206L52.7651 53.2665L56.3229 46.061L59.8751 53.2665L67.8258 54.4206L62.0715 60.0293L63.4331 67.9462L56.3229 64.2034L49.2128 67.9462L50.5686 60.0293L44.8145 54.4206Z" fill="#03C55C"/>
+<path id="polygon8700" d="M38.2207 50.3647L48.4336 48.8822L53.0039 39.6265L57.567 48.8822L67.7799 50.3647L60.3883 57.5693L62.1373 67.7389L53.0039 62.9312L43.8705 67.7389L45.6123 57.5693L38.2207 50.3647Z" stroke="#7C4BAC" stroke-width="1.5" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<g id="g8706">
+<path id="line8702" d="M53 32.1196V18.3491" stroke="#7C4BAC" stroke-width="1.5" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="polyline8704" d="M56.3216 28.7988L53.0007 32.1198L49.6797 28.7988" stroke="#7C4BAC" stroke-width="1.5" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<g id="g8712">
+<path id="line8708" d="M53 75.2456V89.0161" stroke="#7C4BAC" stroke-width="1.5" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="polyline8710" d="M49.6797 78.5666L53.0007 75.2456L56.3216 78.5666" stroke="#7C4BAC" stroke-width="1.5" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<g id="g8718">
+<path id="line8714" d="M68.248 38.4352L77.985 28.6982" stroke="#7C4BAC" stroke-width="1.5" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="polyline8716" d="M72.9445 38.4352H68.248V33.7388" stroke="#7C4BAC" stroke-width="1.5" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<g id="g8724">
+<path id="line8720" d="M37.7526 68.9302L28.0156 78.6671" stroke="#7C4BAC" stroke-width="1.5" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="polyline8722" d="M33.0566 68.9302H37.7531V73.6266" stroke="#7C4BAC" stroke-width="1.5" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<g id="g8730">
+<path id="line8726" d="M74.5625 53.6826H88.333" stroke="#7C4BAC" stroke-width="1.5" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="polyline8728" d="M77.8835 57.0038L74.5625 53.6828L77.8835 50.3618" stroke="#7C4BAC" stroke-width="1.5" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<g id="g8736">
+<path id="line8732" d="M31.4365 53.6826H17.666" stroke="#7C4BAC" stroke-width="1.5" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="polyline8734" d="M28.1152 50.3618L31.4362 53.6828L28.1152 57.0038" stroke="#7C4BAC" stroke-width="1.5" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<g id="g8742">
+<path id="line8738" d="M68.248 68.9302L77.985 78.6671" stroke="#7C4BAC" stroke-width="1.5" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="polyline8740" d="M68.248 73.6266V68.9302H72.9445" stroke="#7C4BAC" stroke-width="1.5" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<g id="g8748">
+<path id="line8744" d="M37.7526 38.4352L28.0156 28.6982" stroke="#7C4BAC" stroke-width="1.5" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="polyline8746" d="M37.7531 33.7388V38.4352H33.0566" stroke="#7C4BAC" stroke-width="1.5" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_1501_650">
+<rect width="106" height="106" fill="white" transform="translate(0 0.682617)"/>
+</clipPath>
+</defs>
+</svg>
